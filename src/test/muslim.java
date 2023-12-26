@@ -44,4 +44,8 @@ public class muslim extends JPanel {
 		toolBar.add(btnSettings);
 
 	}
+	
+
+
+
 }
